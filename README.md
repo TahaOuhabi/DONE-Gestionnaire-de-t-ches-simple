@@ -1,6 +1,6 @@
 # DONE!-Gestionnaire-de-tâches-simple
 DONE! est une application web minimaliste qui vous aide à organiser vos tâches quotidiennes. Développée avec HTML, CSS et JavaScript.
-Avec DONE!, vous pouvez :
+Avec DONE!, vous pouvez \n
 -Ajouter de nouvelles tâches en un clic ou en appuyant sur Entrée
 -Modifier une tâche existante en cliquant directement dessus
 -Cocher les tâches terminées
